@@ -1,13 +1,18 @@
-﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench>
+﻿<Properties StartupConfiguration="{95A0E7DB-EBA2-496B-B8EC-671BBB4046D7}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DesignPatterns/Patterns/Behavioural/Memento/MementoSerialization.cs">
+    <Files>
+      <File FileName="DesignPatternsTest/Behavioural/ChainOfResponsibilityTests.cs" Line="18" Column="1" />
+      <File FileName="DesignPatterns/Patterns/Behavioural/Memento/MementoSerialization.cs" Line="16" Column="10" />
+    </Files>
     <Pads>
-      <Pad Id="MonoDevelop.NUnit.TestPad">
-        <State expanded="True">
-          <Node name="DesignPatternsTest" expanded="True">
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="DesignPatterns" expanded="True">
             <Node name="DesignPatternsTest" expanded="True">
-              <Node name="Behavioural" expanded="True">
-                <Node name="MediatorTests" selected="True" />
+              <Node name="DesignPatternsTest" expanded="True">
+                <Node name="Behavioural" expanded="True">
+                  <Node name="MementoTests" selected="True" />
+                </Node>
               </Node>
             </Node>
           </Node>
@@ -15,8 +20,12 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DesignPatterns PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.DesignPatternsTest PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
 </Properties>
